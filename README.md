@@ -1,0 +1,1 @@
+# Dont-Post-Text-As-An-Image-Discord-Version
