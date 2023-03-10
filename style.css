@@ -1,0 +1,51 @@
+html,
+body {
+    min-height: 100%;
+    min-width: 100%;
+}
+
+li {
+    margin: 10px;
+    padding: 1px 10% 1px 10%;
+    border-radius: 10px;
+    background-color: #808080;
+    list-style: none;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.container h2, p {
+    text-align: center;
+}
+
+.code-boxes-prop {
+    text-align: center;
+}
+
+pre {
+    margin: 0px auto 0px auto;
+    padding: 4px;
+    border-radius: 4px;
+    line-height: 1.0;
+    max-width: 300px;
+    text-align: left;
+    background-color: #fff;
+    line-height: 125%;
+}
+
+hr {
+    width: 24%;
+}
+
+footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: transparent;
+  z-index: 10;
+  color: #000;
+  text-align: center;
+}
